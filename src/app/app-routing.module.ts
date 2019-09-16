@@ -1,9 +1,9 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
-import { PersonalDetailsComponent } from 'src/app/personal-details/personal-details.component';
-import { WorkExperienceComponent } from 'src/app/work-experience/work-experience.component';
-import { SkillsComponent } from 'src/app/skills/skills.component';
-import { ContactDetailsComponent } from 'src/app/contact-details/contact-details.component';
+import { PersonalDetailsComponent } from './personal-details/personal-details.component';
+import { WorkExperienceComponent } from './work-experience/work-experience.component';
+import { SkillsComponent } from './skills/skills.component';
+import { ContactDetailsComponent } from './contact-details/contact-details.component';
 import { HomeComponent } from './home/home.component';
 import { WizardFinishedComponent } from './wizard-finished/wizard-finished.component';
 
